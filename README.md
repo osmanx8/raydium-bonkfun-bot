@@ -1,44 +1,49 @@
-# Bonk.fun volume bot, bundler, sniper bot - Trading Bot - Raydium Launchpad
+#🚀 Bonk.fun Trading Bot — Volume Booster, Bundler & Sniper Bot for Solana & Raydium
+Welcome to the Bonk.fun Trading Suite — a high-performance Solana bot framework packed with tools to supercharge trading activity, maximize volume, and gain an edge in Raydium-based liquidity pools.
+
+⚙️ Built for speed. 📈 Designed for volume. 🎯 Optimized for sniping.
 
 ## Overview
 
-  **Bonk.fun trading bot-Volume bot, Bundler, Sniper bot**This repository contains a Solana trading bot designed to operate in bonk.fun. The bot implements several advanced features such as:
-  
-  - Volume Boost: Enhancing trading volumes within the pool.
-  - Sniping: Identifying and executing trades at optimal prices.
-  - Bundling: Grouping multiple transactions into single operations.
-  
-  The project leverages the Raydium protocol and operates on Solana blockchain, ensuring fast transaction speeds and low fees.
+ ✨ Key Features
+🔊 1. Volume Boost Engine
+Simulate or amplify trading activity in Bonk.fun or Raydium liquidity pools to improve visibility and traction.
+
+🎯 2. Precision Sniper
+Automatically detect and execute trades based on custom thresholds (price, timing, volume). Ideal for launch moments or price breakouts.
+
+📦 3. Bundled Transactions
+Batch multiple actions (buy/sell/snipe) into one efficient transaction using Jito bundling to reduce latency and save fees.
+
+🧠 4. Wallet Activity Scanner
+Monitor wallet activity in real-time and trigger automated buy/sell strategies based on smart contract interactions or on-chain events.
 
 ## Contact
   
-  If you need help, interest or need updated version, contact here: [Telegram](https://t.me/shiny0103) | [Twitter](https://x.com/0xTan1319)
+   contact here: [Telegram](https://t.me/ShadowRusii) | [Twitter](https://x.com/ShadowRusii)
 
-## Features
 
-  1. Volume Boost
-  - Amplify the trading volume in targeted liquidity pools.
-  2. Sniping
-  - Execute trades based on preset parameters to secure favorable prices.
-  3. Bundling Transactions
-  - Optimize and combine multiple trades into fewer transactions for efficiency.
-  4. Wallet Scanning
-  - Detect activity in specific wallets and trigger automated trading responses.
-
-## Bundler sampel tx
+##🔗 Example: Jito Bundle TX
+Check out a real-world bundle executed by the bot:
 
 https://explorer.jito.wtf/bundle/aec76b777303c0782d0f2e6bf4402df0edd92fcd5a40def0d7f3a05f03a59832
+⚙️ Getting Started
+🪙 Wallet Setup
 
-## Usage
+Create a Solana wallet (e.g. Phantom, Sollet)
 
-  1. Set up your Solana wallet and ensure it has sufficient funds in SOL for transaction fees.
-  2. Configure the environment variables to connect with the Solana RPC and wallet.
-  3. Start the bot, and monitor its activity as it interacts with Raydium pools.
+Fund it with enough SOL to cover transaction fees
 
-## Contribution
+🛠️ Configuration
 
-  Contributions are welcome! To contribute:
-  
-  1. Fork this repository.
-  2. Create a new branch for your feature/bugfix.
-  3. Submit a pull request with a clear description of changes.
+Set your RPC endpoint and wallet path in .env
+
+Customize trade parameters (volume, token, strategy)
+##
+🧪 Advanced Modules (Optional)
+MEV Optimization: Use Jito-style bundling for frontrunning/backrunning opportunities
+
+Anti-MEV Safety: Custom delay and randomization logic
+
+Liquidity Sensing: Auto-pause or scale based on pool depth and slippage
+
