@@ -1,4 +1,4 @@
-#🚀 Bonk.fun Trading Bot — Volume Booster, Bundler & Sniper Bot for Solana & Raydium
+##🚀 Bonk.fun Trading Bot — Volume Booster, Bundler & Sniper Bot for Solana & Raydium
 Welcome to the Bonk.fun Trading Suite — a high-performance Solana bot framework packed with tools to supercharge trading activity, maximize volume, and gain an edge in Raydium-based liquidity pools.
 
 ⚙️ Built for speed. 📈 Designed for volume. 🎯 Optimized for sniping.
